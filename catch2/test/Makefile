@@ -3,7 +3,7 @@ CC = g++
 CC_FLAGS = -std=c++11
 
 # File names
-TEST = TestCalc
+TEST = CalcTest
 SOURCES = $(wildcard *.cpp)
 OBJECTS = $(SOURCES:.cpp=.o)
 
