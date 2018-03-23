@@ -6,4 +6,5 @@ wget https://raw.githubusercontent.com/CatchOrg/Catch2/master/single_include/cat
 3 - Execute manually:
 
 ./TestCalc
+
 ./TestCalc -s // show description of success cases
